@@ -1,18 +1,22 @@
 body{
   margin: 0px;
   font-family: Tahoma, Geneva, sans-serif;
-  background-color: black;
+  background-image: url("images/grey_bg.png");
   color: white;
 }
 
 #my_info{
   text-align: center;
   margin: 0;
+  background-color: black;
+
 }
 
 footer{
   text-align: center;
-  margin: 20px
+  margin: 20px:auto;
+  background-color: black;
+    padding: 20px;
 }
 header h1, header h5{
   margin: 0;
