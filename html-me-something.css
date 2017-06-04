@@ -1,12 +1,12 @@
 body{
   margin: 0px;
-  font-family: Tahoma, Geneva, sans-serif
-}
-
-header{
-  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
   background-color: black;
   color: white;
+}
+
+#my_info{
+  text-align: center;
   margin: 0;
 }
 
