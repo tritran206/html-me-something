@@ -1,0 +1,54 @@
+body{
+  margin: 0px;
+  font-family: Tahoma, Geneva, sans-serif
+}
+
+header{
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin: 0;
+}
+
+footer{
+  text-align: center;
+  margin: 20px
+}
+header h1, header h5{
+  margin: 0;
+  padding: 10px;
+}
+
+div.content{
+    padding: 75px 200px 75px 200px;
+    margin: 0px:
+}
+section{
+  margin: 0
+}
+
+
+
+.content-wrapper{
+  width: 100%;
+
+}
+
+.content-wrapper img{
+  width: 100%;
+  clip: rect(2000px,0px,0px,0px);
+}
+
+
+.text-wrapper{
+  width: 100%;
+  position: absolute;
+  margin-top: -30%;
+}
+
+.text-wrapper h1{
+  text-align: center;
+  color: #ffffff;
+  font-size: 5em;
+
+}
